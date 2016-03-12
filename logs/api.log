@@ -1,0 +1,9 @@
+21:16:41.611 Initializing concepts cache with 0 concepts
+21:16:41.611 Watching directory: /Projects/swagger-test-synch/tests/specs
+21:16:41.611 Found 3 files
+21:16:41.611 Watching directory: /Projects/swagger-test-synch/tests/specs/images
+21:16:41.611 Found 1 files
+21:16:41.613 Initializing specs cache with 2 specs
+21:16:41.613 Adding specs from /Projects/swagger-test-synch/tests/specs/example.spec
+21:16:41.613 Adding specs from /Projects/swagger-test-synch/tests/specs/synch.md
+21:16:41.620 Initializing steps cache with 5 steps
