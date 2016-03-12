@@ -43,4 +43,4 @@ allows us to not only document the method but also describe how to test the meth
 
 Using the PetStore example on http://editor.swagger.io/#/ with the above changes will generate the following 
 folders and files:
-
+![Swagger Synch](https://github.com/philipbeadle/swagger-synch/blob/master/tests/specs/images/folderFilesSynched.png)
