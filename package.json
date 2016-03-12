@@ -1,0 +1,30 @@
+{
+  "name": "swagger-test-synch",
+  "version": "1.0.0",
+  "description": "synchronises the test functions with the swagger description",
+  "main": "swagger-synch.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "gauge tests/specs/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/philipbeadle/swagger-synch.git"
+  },
+  "keywords": [
+    "swagger",
+    "super-test"
+  ],
+  "author": "Philip Beadle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/philipbeadle/swagger-synch/issues"
+  },
+  "homepage": "https://github.com/philipbeadle/swagger-synch#readme",
+  "devDependencies": {
+    "request": "^2.69.0",
+    "xmldoc": "^0.4.0"
+  }
+}

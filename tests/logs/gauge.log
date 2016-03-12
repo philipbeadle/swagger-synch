@@ -1,0 +1,8 @@
+16:30:38.294  create  manifest.json
+16:30:38.295  create  specs
+16:30:38.295  create  specs/example.spec
+16:30:38.295  create  env
+16:30:38.295  create  env/default
+16:30:38.295  create  env/default/default.properties
+16:30:38.391 
+Successfully initialized the project. Run specifications with "gauge specs/"
