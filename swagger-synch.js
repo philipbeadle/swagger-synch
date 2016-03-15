@@ -1,3 +1,6 @@
+var fsFunctions = require('./fsFunctions.js');
+
+
 var fs = require('fs');
 var obj = '';// JSON.parse(fs.readFileSync('po-swagger.json', 'utf8'));
 
@@ -9,23 +12,7 @@ var path = require('path');
 var xmldoc = require('xmldoc');
 
 
-function existsSync(filename) {
-  try {
-    fs.accessSync(filename);
-    return true;
-  } catch (ex) {
-    return false;
-  }
-}
 
-
-var mkdirSync = function (path) {
-  try {
-    fs.mkdirSync(path);
-  } catch (e) {
-    //Do nothing
-  }
-}
 
 function newFileContent(endPoint, operation, response, verb) {
   var reason = obj.paths[operation][verb].responses[response].description;
@@ -129,11 +116,11 @@ request({
         for (var response in obj.paths[operation][verb].responses) {
           //console.log(endPoint, operation, verb, response, reason);
           var operationNoSlash = operation.substring(1, operation.length);
-          mkdirSync(path.join('api-test', '_' + endPoint));
-          mkdirSync(path.join('api-test', '_' + endPoint, operationNoSlash.replace(/\//g, '.')));
-          mkdirSync(path.join('api-test', '_' + endPoint, operationNoSlash.replace(/\//g, '.'), verb.toUpperCase()));
-          var testFileName = path.join('api-test', '_' + endPoint, operationNoSlash.replace(/\//g, '.'), verb.toUpperCase()) + '/' + response.toUpperCase() + '.js';
-          if (existsSync(testFileName)) {
+          fsFunctions.mkdirSync(path.join('test', '_' + endPoint));
+          fsFunctions.mkdirSync(path.join('test', '_' + endPoint, operationNoSlash.replace(/\//g, '.')));
+          fsFunctions.mkdirSync(path.join('test', '_' + endPoint, operationNoSlash.replace(/\//g, '.'), verb.toUpperCase()));
+          var testFileName = path.join('test', '_' + endPoint, operationNoSlash.replace(/\//g, '.'), verb.toUpperCase()) + '/' + response.toUpperCase() + '.js';
+          if (fsFunctions.existsSync(testFileName)) {
             var fileContents = fs.readFileSync(testFileName).toString();
             fs.writeFileSync(testFileName, updatedFileContent(fileContents, operation, response, verb).content);
 

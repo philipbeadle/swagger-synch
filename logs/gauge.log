@@ -18,3 +18,462 @@
 21:16:41.748 Scenarios:	2 executed	2 passed	0 failed	0 skipped
 21:16:41.748 
 Total time taken: 20ms
+23:03:56.922 Error starting plugin html-report. Failed to get plugin.json. Plugin html-report  is not installed. To install, run `gauge --install html-report`.
+23:03:56.926 # Specification Heading
+23:03:56.928 ## Vowel counts in single word
+23:03:56.931 * Vowels in English language are "aeiou".
+23:03:56.934 * The word "gauge" has "3" vowels.
+23:03:56.937 ## Vowel counts in multiple word
+23:03:56.937 * Vowels in English language are "aeiou".
+23:03:56.939 * Almost all words have vowels 
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+23:03:56.945 # File System Functions
+23:03:56.948 ## Make a directory synchronously when the root folder is empty
+23:03:56.949 * Delete any previously created directories
+23:03:56.951 * Create a new folder "_synch"
+23:03:56.954 No scenarios found in spec: /Projects/swagger-test-synch/tests/specs/synch.md
+23:03:57.057 Specifications:	2 executed	2 passed	0 failed	1 skipped
+23:03:57.058 Scenarios:	3 executed	3 passed	0 failed	0 skipped
+23:03:57.058 
+Total time taken: 32ms
+23:04:53.646 Error starting plugin html-report. Failed to get plugin.json. Plugin html-report  is not installed. To install, run `gauge --install html-report`.
+23:04:53.650 # Specification Heading
+23:04:53.651 ## Vowel counts in single word
+23:04:53.654 * Vowels in English language are "aeiou".
+23:04:53.657 * The word "gauge" has "3" vowels.
+23:04:53.660 ## Vowel counts in multiple word
+23:04:53.661 * Vowels in English language are "aeiou".
+23:04:53.663 * Almost all words have vowels 
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+23:04:53.667 # File System Functions
+23:04:53.670 ## Make a directory synchronously when the root folder is empty
+23:04:53.671 * Delete any previously created directories
+23:04:53.674 * Create a new folder "_synch"
+23:04:53.678 No scenarios found in spec: /Projects/swagger-test-synch/tests/specs/synch.md
+23:04:53.781 Specifications:	2 executed	2 passed	0 failed	1 skipped
+23:04:53.781 Scenarios:	3 executed	3 passed	0 failed	0 skipped
+23:04:53.781 
+Total time taken: 32ms
+23:08:48.406 Error starting plugin html-report. Failed to get plugin.json. Plugin html-report  is not installed. To install, run `gauge --install html-report`.
+23:08:48.410 # Specification Heading
+23:08:48.411 ## Vowel counts in single word
+23:08:48.414 * Vowels in English language are "aeiou".
+23:08:48.417 * The word "gauge" has "3" vowels.
+23:08:48.421 ## Vowel counts in multiple word
+23:08:48.422 * Vowels in English language are "aeiou".
+23:08:48.423 * Almost all words have vowels 
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+23:08:48.428 # File System Functions
+23:08:48.430 ## Make a directory synchronously when the root folder is empty
+23:08:48.431 * Delete any previously created directories
+23:08:48.434 * Create a new folder "_synch"
+23:08:48.951 Failed Step: Create a new folder "_synch"
+23:08:48.951 Error Message: ReferenceError: path is not defined
+23:08:48.951 Stacktrace: 
+ReferenceError: path is not defined
+    at Object.<anonymous> (fsFunctions.js:11:25)
+    at runFn (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/test.js:51:13)
+    at Test.run (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/executor.js:45:70)
+    at executeStep (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/message-processor.js:149:40)
+    at null.<anonymous> (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/gauge.js:17:22)
+    at emit (events.js:107:17)
+    at Socket.messageHandler (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/connection.js:18:10)
+    at Socket.emit (events.js:107:17)
+23:08:48.953 No scenarios found in spec: /Projects/swagger-test-synch/tests/specs/synch.md
+23:08:49.060 Specifications:	2 executed	1 passed	1 failed	1 skipped
+23:08:49.060 Scenarios:	3 executed	2 passed	1 failed	0 skipped
+23:08:49.060 
+Total time taken: 548ms
+23:09:11.342 Error starting plugin html-report. Failed to get plugin.json. Plugin html-report  is not installed. To install, run `gauge --install html-report`.
+23:09:11.346 # Specification Heading
+23:09:11.347 ## Vowel counts in single word
+23:09:11.350 * Vowels in English language are "aeiou".
+23:09:11.353 * The word "gauge" has "3" vowels.
+23:09:11.356 ## Vowel counts in multiple word
+23:09:11.357 * Vowels in English language are "aeiou".
+23:09:11.359 * Almost all words have vowels 
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+23:09:11.364 # File System Functions
+23:09:11.367 ## Make a directory synchronously when the root folder is empty
+23:09:11.368 * Delete any previously created directories
+23:09:11.371 * Create a new folder "_synch"
+23:09:11.376 No scenarios found in spec: /Projects/swagger-test-synch/tests/specs/synch.md
+23:09:11.476 Specifications:	2 executed	2 passed	0 failed	1 skipped
+23:09:11.476 Scenarios:	3 executed	3 passed	0 failed	0 skipped
+23:09:11.476 
+Total time taken: 33ms
+23:10:01.386 Error starting plugin html-report. Failed to get plugin.json. Plugin html-report  is not installed. To install, run `gauge --install html-report`.
+23:10:01.389 # Specification Heading
+23:10:01.391 ## Vowel counts in single word
+23:10:01.394 * Vowels in English language are "aeiou".
+23:10:01.396 * The word "gauge" has "3" vowels.
+23:10:01.399 ## Vowel counts in multiple word
+23:10:01.400 * Vowels in English language are "aeiou".
+23:10:01.402 * Almost all words have vowels 
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+23:10:01.407 # File System Functions
+23:10:01.410 ## Make a directory synchronously when the root folder is empty
+23:10:01.411 * Delete any previously created directories
+23:10:01.413 * Create a new folder "_synch"
+23:10:01.890 Failed Step: Create a new folder "_synch"
+23:10:01.890 Error Message: TypeError: Arguments to path.join must be strings
+23:10:01.890 Stacktrace: 
+TypeError: Arguments to path.join must be strings
+    at Object.posix.join (path.js:488:13)
+    at Object.<anonymous> (fsFunctions.js:12:30)
+    at runFn (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/test.js:51:13)
+    at Test.run (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/executor.js:45:70)
+    at executeStep (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/message-processor.js:149:40)
+    at null.<anonymous> (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/gauge.js:17:22)
+    at emit (events.js:107:17)
+    at Socket.messageHandler (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/connection.js:18:10)
+23:10:01.892 No scenarios found in spec: /Projects/swagger-test-synch/tests/specs/synch.md
+23:10:01.995 Specifications:	2 executed	1 passed	1 failed	1 skipped
+23:10:01.995 Scenarios:	3 executed	2 passed	1 failed	0 skipped
+23:10:01.995 
+Total time taken: 506ms
+23:10:29.210 Error starting plugin html-report. Failed to get plugin.json. Plugin html-report  is not installed. To install, run `gauge --install html-report`.
+23:10:29.213 # Specification Heading
+23:10:29.215 ## Vowel counts in single word
+23:10:29.217 * Vowels in English language are "aeiou".
+23:10:29.220 * The word "gauge" has "3" vowels.
+23:10:29.223 ## Vowel counts in multiple word
+23:10:29.224 * Vowels in English language are "aeiou".
+23:10:29.226 * Almost all words have vowels 
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+23:10:29.231 # File System Functions
+23:10:29.233 ## Make a directory synchronously when the root folder is empty
+23:10:29.234 * Delete any previously created directories
+23:10:29.236 * Create a new folder "_synch"
+23:10:29.746 Failed Step: Create a new folder "_synch"
+23:10:29.746 Error Message: TypeError: Arguments to path.join must be strings
+23:10:29.746 Stacktrace: 
+TypeError: Arguments to path.join must be strings
+    at Object.posix.join (path.js:488:13)
+    at Object.<anonymous> (fsFunctions.js:12:30)
+    at runFn (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/test.js:51:13)
+    at Test.run (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/executor.js:45:70)
+    at executeStep (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/message-processor.js:149:40)
+    at null.<anonymous> (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/gauge.js:17:22)
+    at emit (events.js:107:17)
+    at Socket.messageHandler (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/connection.js:18:10)
+23:10:29.748 No scenarios found in spec: /Projects/swagger-test-synch/tests/specs/synch.md
+23:10:29.852 Specifications:	2 executed	1 passed	1 failed	1 skipped
+23:10:29.852 Scenarios:	3 executed	2 passed	1 failed	0 skipped
+23:10:29.852 
+Total time taken: 538ms
+23:10:52.143 Error starting plugin html-report. Failed to get plugin.json. Plugin html-report  is not installed. To install, run `gauge --install html-report`.
+23:10:52.146 # Specification Heading
+23:10:52.148 ## Vowel counts in single word
+23:10:52.151 * Vowels in English language are "aeiou".
+23:10:52.153 * The word "gauge" has "3" vowels.
+23:10:52.156 ## Vowel counts in multiple word
+23:10:52.157 * Vowels in English language are "aeiou".
+23:10:52.159 * Almost all words have vowels 
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+23:10:52.164 # File System Functions
+23:10:52.168 ## Make a directory synchronously when the root folder is empty
+23:10:52.169 * Delete any previously created directories
+23:10:52.171 * Create a new folder "_synch"
+23:10:52.177 No scenarios found in spec: /Projects/swagger-test-synch/tests/specs/synch.md
+23:10:52.281 Specifications:	2 executed	2 passed	0 failed	1 skipped
+23:10:52.281 Scenarios:	3 executed	3 passed	0 failed	0 skipped
+23:10:52.281 
+Total time taken: 34ms
+23:12:05.903 Error starting plugin html-report. Failed to get plugin.json. Plugin html-report  is not installed. To install, run `gauge --install html-report`.
+23:12:05.907 # Specification Heading
+23:12:05.908 ## Vowel counts in single word
+23:12:05.911 * Vowels in English language are "aeiou".
+23:12:05.914 * The word "gauge" has "3" vowels.
+23:12:05.918 ## Vowel counts in multiple word
+23:12:05.918 * Vowels in English language are "aeiou".
+23:12:05.920 * Almost all words have vowels 
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+23:12:05.926 # File System Functions
+23:12:05.930 ## Make a directory synchronously when the root folder is empty
+23:12:05.930 * Delete any previously created directories
+23:12:05.933 * Create a new folder "_synch"
+23:12:05.936 No scenarios found in spec: /Projects/swagger-test-synch/tests/specs/synch.md
+23:12:06.042 Specifications:	2 executed	2 passed	0 failed	1 skipped
+23:12:06.042 Scenarios:	3 executed	3 passed	0 failed	0 skipped
+23:12:06.042 
+Total time taken: 33ms
+23:12:26.242 Error starting plugin html-report. Failed to get plugin.json. Plugin html-report  is not installed. To install, run `gauge --install html-report`.
+23:12:26.245 # Specification Heading
+23:12:26.247 ## Vowel counts in single word
+23:12:26.250 * Vowels in English language are "aeiou".
+23:12:26.253 * The word "gauge" has "3" vowels.
+23:12:26.256 ## Vowel counts in multiple word
+23:12:26.257 * Vowels in English language are "aeiou".
+23:12:26.259 * Almost all words have vowels 
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+23:12:26.264 # File System Functions
+23:12:26.267 ## Make a directory synchronously when the root folder is empty
+23:12:26.268 * Delete any previously created directories
+23:12:26.270 * Create a new folder "_synch"
+23:12:26.275 No scenarios found in spec: /Projects/swagger-test-synch/tests/specs/synch.md
+23:12:26.381 Specifications:	2 executed	2 passed	0 failed	1 skipped
+23:12:26.381 Scenarios:	3 executed	3 passed	0 failed	0 skipped
+23:12:26.381 
+Total time taken: 33ms
+23:12:40.954 Error starting plugin html-report. Failed to get plugin.json. Plugin html-report  is not installed. To install, run `gauge --install html-report`.
+23:12:40.958 # Specification Heading
+23:12:40.959 ## Vowel counts in single word
+23:12:40.962 * Vowels in English language are "aeiou".
+23:12:40.965 * The word "gauge" has "3" vowels.
+23:12:40.968 ## Vowel counts in multiple word
+23:12:40.969 * Vowels in English language are "aeiou".
+23:12:40.972 * Almost all words have vowels 
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+23:12:40.976 # File System Functions
+23:12:40.980 ## Make a directory synchronously when the root folder is empty
+23:12:40.980 * Delete any previously created directories
+23:12:40.982 * Create a new folder "_synch"
+23:12:40.986 No scenarios found in spec: /Projects/swagger-test-synch/tests/specs/synch.md
+23:12:41.091 Specifications:	2 executed	2 passed	0 failed	1 skipped
+23:12:41.091 Scenarios:	3 executed	3 passed	0 failed	0 skipped
+23:12:41.091 
+Total time taken: 32ms
+23:15:24.659 Error starting plugin html-report. Failed to get plugin.json. Plugin html-report  is not installed. To install, run `gauge --install html-report`.
+23:15:24.663 # Specification Heading
+23:15:24.664 ## Vowel counts in single word
+23:15:24.667 * Vowels in English language are "aeiou".
+23:15:24.669 * The word "gauge" has "3" vowels.
+23:15:24.673 ## Vowel counts in multiple word
+23:15:24.673 * Vowels in English language are "aeiou".
+23:15:24.675 * Almost all words have vowels 
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+23:15:24.680 # File System Functions
+23:15:24.683 ## Make a directory synchronously when the root folder is empty
+23:15:24.684 * Delete any previously created directories
+23:15:24.687 * Create a new folder "_synch"
+23:15:24.692 No scenarios found in spec: /Projects/swagger-test-synch/tests/specs/synch.md
+23:15:24.798 Specifications:	2 executed	2 passed	0 failed	1 skipped
+23:15:24.798 Scenarios:	3 executed	3 passed	0 failed	0 skipped
+23:15:24.798 
+Total time taken: 33ms
+23:18:32.028 Error starting plugin html-report. Failed to get plugin.json. Plugin html-report  is not installed. To install, run `gauge --install html-report`.
+23:18:32.032 # Specification Heading
+23:18:32.034 ## Vowel counts in single word
+23:18:32.037 * Vowels in English language are "aeiou".
+23:18:32.039 * The word "gauge" has "3" vowels.
+23:18:32.042 ## Vowel counts in multiple word
+23:18:32.043 * Vowels in English language are "aeiou".
+23:18:32.045 * Almost all words have vowels 
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+23:18:32.049 # File System Functions
+23:18:32.052 ## Make a directory synchronously when the root folder is empty
+23:18:32.052 * Delete any previously created directories
+23:18:32.548 Failed Step: Delete any previously created directories
+23:18:32.548 Error Message: Error: ENOTEMPTY, directory not empty '/Projects/swagger-test-synch/spec-test'
+23:18:32.548 Stacktrace: 
+Error: ENOTEMPTY, directory not empty '/Projects/swagger-test-synch/spec-test'
+    at Error (native)
+    at Object.fs.rmdirSync (fs.js:711:18)
+    at Object.<anonymous> (fsFunctions.js:7:6)
+    at runFn (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/test.js:51:13)
+    at Test.run (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/executor.js:45:70)
+    at executeStep (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/message-processor.js:149:40)
+    at null.<anonymous> (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/gauge.js:17:22)
+    at emit (events.js:107:17)
+23:18:32.550 No scenarios found in spec: /Projects/swagger-test-synch/tests/specs/synch.md
+23:18:32.657 Specifications:	2 executed	1 passed	1 failed	1 skipped
+23:18:32.657 Scenarios:	3 executed	2 passed	1 failed	0 skipped
+23:18:32.657 
+Total time taken: 523ms
+23:23:22.974 Runner connection error: Timed out connecting to [::]:61349
+23:23:22.974 Error while killing runner: os: process already finished
+23:23:22.974 Failed to start gauge API: Timed out connecting to [::]:61349
+23:24:51.322 Runner connection error: Timed out connecting to [::]:61353
+23:24:51.322 Error while killing runner: os: process already finished
+23:24:51.322 Failed to start gauge API: Timed out connecting to [::]:61353
+21:06:58.501 Error starting plugin html-report. Failed to get plugin.json. Plugin html-report  is not installed. To install, run `gauge --install html-report`.
+21:06:58.505 # Specification Heading
+21:06:58.507 ## Vowel counts in single word
+21:06:58.510 * Vowels in English language are "aeiou".
+21:06:58.513 * The word "gauge" has "3" vowels.
+21:06:58.516 ## Vowel counts in multiple word
+21:06:58.516 * Vowels in English language are "aeiou".
+21:06:58.518 * Almost all words have vowels 
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+21:06:58.523 # File System Functions
+21:06:58.527 ## Make a directory synchronously when the root folder is empty
+21:06:58.527 * Delete any previously created directories
+21:06:58.530 * Create a new folder "_synch"
+21:06:58.534 No scenarios found in spec: /Projects/swagger-test-synch/tests/specs/synch.md
+21:06:58.639 Specifications:	2 executed	2 passed	0 failed	1 skipped
+21:06:58.639 Scenarios:	3 executed	3 passed	0 failed	0 skipped
+21:06:58.639 
+Total time taken: 33ms
+21:07:13.909 Error starting plugin html-report. Failed to get plugin.json. Plugin html-report  is not installed. To install, run `gauge --install html-report`.
+21:07:13.912 # Specification Heading
+21:07:13.913 ## Vowel counts in single word
+21:07:13.917 * Vowels in English language are "aeiou".
+21:07:13.919 * The word "gauge" has "3" vowels.
+21:07:13.923 ## Vowel counts in multiple word
+21:07:13.923 * Vowels in English language are "aeiou".
+21:07:13.925 * Almost all words have vowels 
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+21:07:13.930 # File System Functions
+21:07:13.933 ## Make a directory synchronously when the root folder is empty
+21:07:13.934 * Delete any previously created directories
+21:07:13.935 * Create a new folder "_synch"
+21:07:13.939 No scenarios found in spec: /Projects/swagger-test-synch/tests/specs/synch.md
+21:07:14.044 Specifications:	2 executed	2 passed	0 failed	1 skipped
+21:07:14.044 Scenarios:	3 executed	3 passed	0 failed	0 skipped
+21:07:14.044 
+Total time taken: 31ms
+20:53:04.542 Failed to find project directory
+20:54:10.076 Error starting plugin html-report. Failed to get plugin.json. Plugin html-report  is not installed. To install, run `gauge --install html-report`.
+20:54:10.079 # Specification Heading
+20:54:10.081 ## Vowel counts in single word
+20:54:10.084 * Vowels in English language are "aeiou".
+20:54:10.087 * The word "gauge" has "3" vowels.
+20:54:10.090 ## Vowel counts in multiple word
+20:54:10.091 * Vowels in English language are "aeiou".
+20:54:10.093 * Almost all words have vowels 
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+20:54:10.097 # File System Functions
+20:54:10.100 ## Make a directory synchronously when the root folder is empty
+20:54:10.101 * Delete any previously created directories
+20:54:10.672 Failed Step: Delete any previously created directories
+20:54:10.672 Error Message: Error: ENOENT, no such file or directory '/Projects/swagger-test-synch/spec-test/_synch'
+20:54:10.672 Stacktrace: 
+Error: ENOENT, no such file or directory '/Projects/swagger-test-synch/spec-test/_synch'
+    at Error (native)
+    at Object.fs.rmdirSync (fs.js:711:18)
+    at Object.<anonymous> (fsFunctions.js:7:6)
+    at runFn (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/test.js:51:13)
+    at Test.run (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/executor.js:45:70)
+    at executeStep (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/message-processor.js:149:40)
+    at null.<anonymous> (/Users/PhilBeadle/.gauge/plugins/js/1.1.0/src/gauge.js:17:22)
+    at emit (events.js:107:17)
+20:54:10.674 No scenarios found in spec: /Projects/swagger-test-synch/synch-tests/specs/synch.md
+20:54:10.780 Specifications:	2 executed	1 passed	1 failed	1 skipped
+20:54:10.780 Scenarios:	3 executed	2 passed	1 failed	0 skipped
+20:54:10.780 
+Total time taken: 599ms
+20:55:29.848 Error starting plugin html-report. Failed to get plugin.json. Plugin html-report  is not installed. To install, run `gauge --install html-report`.
+20:55:29.851 # Specification Heading
+20:55:29.853 ## Vowel counts in single word
+20:55:29.856 * Vowels in English language are "aeiou".
+20:55:29.858 * The word "gauge" has "3" vowels.
+20:55:29.861 ## Vowel counts in multiple word
+20:55:29.862 * Vowels in English language are "aeiou".
+20:55:29.864 * Almost all words have vowels 
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+20:55:29.868 # File System Functions
+20:55:29.871 ## Make a directory synchronously when the root folder is empty
+20:55:29.872 * Delete any previously created directories
+20:55:29.874 * Create a new folder "_synch"
+20:55:29.878 No scenarios found in spec: /Projects/swagger-test-synch/synch-tests/specs/synch.md
+20:55:29.983 Specifications:	2 executed	2 passed	0 failed	1 skipped
+20:55:29.983 Scenarios:	3 executed	3 passed	0 failed	0 skipped
+20:55:29.983 
+Total time taken: 30ms

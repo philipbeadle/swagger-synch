@@ -1,0 +1,26 @@
+{
+  "name": "specs",
+  "version": "1.0.0",
+  "description": "Specs for how the Swagger Synch works",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "gauge specs/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philipbeadle/swagger-synch.git"
+  },
+  "keywords": [
+    "Swagger",
+    "Gauge"
+  ],
+  "author": "Philip Beadle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/philipbeadle/swagger-synch/issues"
+  },
+  "homepage": "https://github.com/philipbeadle/swagger-synch#readme"
+}

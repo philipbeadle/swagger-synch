@@ -7,7 +7,8 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "gauge tests/specs/"
+    "test": "./node_modules/mocha/bin/mocha --recursive --timeout 10000",
+    "gauge": "gauge synch-tests/specs/"
   },
   "repository": {
     "type": "git",
@@ -24,7 +25,10 @@
   },
   "homepage": "https://github.com/philipbeadle/swagger-synch#readme",
   "devDependencies": {
+    "mocha": "^2.4.5",
     "request": "^2.69.0",
+    "supertest": "^1.2.0",
+    "supertest-as-promised": "^3.0.0",
     "xmldoc": "^0.4.0"
   }
 }

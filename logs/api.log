@@ -7,3 +7,163 @@
 21:16:41.613 Adding specs from /Projects/swagger-test-synch/tests/specs/example.spec
 21:16:41.613 Adding specs from /Projects/swagger-test-synch/tests/specs/synch.md
 21:16:41.620 Initializing steps cache with 5 steps
+23:03:56.906 Watching directory: /Projects/swagger-test-synch/tests/specs
+23:03:56.907 Found 4 files
+23:03:56.907 Watching directory: /Projects/swagger-test-synch/tests/specs/images
+23:03:56.907 Found 1 files
+23:03:56.905 Initializing concepts cache with 0 concepts
+23:03:56.909 Initializing specs cache with 3 specs
+23:03:56.909 Adding specs from /Projects/swagger-test-synch/tests/specs/fsFunctions.spec
+23:03:56.909 Adding specs from /Projects/swagger-test-synch/tests/specs/example.spec
+23:03:56.909 Adding specs from /Projects/swagger-test-synch/tests/specs/synch.md
+23:03:56.918 Initializing steps cache with 9 steps
+23:04:53.634 Initializing concepts cache with 0 concepts
+23:04:53.634 Watching directory: /Projects/swagger-test-synch/tests/specs
+23:04:53.634 Found 4 files
+23:04:53.634 Watching directory: /Projects/swagger-test-synch/tests/specs/images
+23:04:53.634 Found 1 files
+23:04:53.636 Initializing specs cache with 3 specs
+23:04:53.636 Adding specs from /Projects/swagger-test-synch/tests/specs/fsFunctions.spec
+23:04:53.636 Adding specs from /Projects/swagger-test-synch/tests/specs/example.spec
+23:04:53.636 Adding specs from /Projects/swagger-test-synch/tests/specs/synch.md
+23:04:53.643 Initializing steps cache with 9 steps
+23:08:48.392 Initializing concepts cache with 0 concepts
+23:08:48.393 Watching directory: /Projects/swagger-test-synch/tests/specs
+23:08:48.393 Found 4 files
+23:08:48.393 Watching directory: /Projects/swagger-test-synch/tests/specs/images
+23:08:48.393 Found 1 files
+23:08:48.395 Initializing specs cache with 3 specs
+23:08:48.395 Adding specs from /Projects/swagger-test-synch/tests/specs/fsFunctions.spec
+23:08:48.395 Adding specs from /Projects/swagger-test-synch/tests/specs/example.spec
+23:08:48.395 Adding specs from /Projects/swagger-test-synch/tests/specs/synch.md
+23:08:48.403 Initializing steps cache with 9 steps
+23:09:11.329 Initializing concepts cache with 0 concepts
+23:09:11.330 Watching directory: /Projects/swagger-test-synch/tests/specs
+23:09:11.330 Found 4 files
+23:09:11.330 Watching directory: /Projects/swagger-test-synch/tests/specs/images
+23:09:11.330 Found 1 files
+23:09:11.332 Initializing specs cache with 3 specs
+23:09:11.332 Adding specs from /Projects/swagger-test-synch/tests/specs/fsFunctions.spec
+23:09:11.332 Adding specs from /Projects/swagger-test-synch/tests/specs/example.spec
+23:09:11.332 Adding specs from /Projects/swagger-test-synch/tests/specs/synch.md
+23:09:11.339 Initializing steps cache with 9 steps
+23:10:01.373 Initializing concepts cache with 0 concepts
+23:10:01.373 Watching directory: /Projects/swagger-test-synch/tests/specs
+23:10:01.373 Found 4 files
+23:10:01.373 Watching directory: /Projects/swagger-test-synch/tests/specs/images
+23:10:01.373 Found 1 files
+23:10:01.375 Initializing specs cache with 3 specs
+23:10:01.375 Adding specs from /Projects/swagger-test-synch/tests/specs/fsFunctions.spec
+23:10:01.375 Adding specs from /Projects/swagger-test-synch/tests/specs/example.spec
+23:10:01.375 Adding specs from /Projects/swagger-test-synch/tests/specs/synch.md
+23:10:01.382 Initializing steps cache with 9 steps
+23:10:29.196 Initializing concepts cache with 0 concepts
+23:10:29.197 Watching directory: /Projects/swagger-test-synch/tests/specs
+23:10:29.197 Found 4 files
+23:10:29.197 Watching directory: /Projects/swagger-test-synch/tests/specs/images
+23:10:29.197 Found 1 files
+23:10:29.199 Initializing specs cache with 3 specs
+23:10:29.199 Adding specs from /Projects/swagger-test-synch/tests/specs/fsFunctions.spec
+23:10:29.199 Adding specs from /Projects/swagger-test-synch/tests/specs/example.spec
+23:10:29.199 Adding specs from /Projects/swagger-test-synch/tests/specs/synch.md
+23:10:29.206 Initializing steps cache with 9 steps
+23:10:52.130 Initializing concepts cache with 0 concepts
+23:10:52.130 Watching directory: /Projects/swagger-test-synch/tests/specs
+23:10:52.130 Found 4 files
+23:10:52.130 Watching directory: /Projects/swagger-test-synch/tests/specs/images
+23:10:52.130 Found 1 files
+23:10:52.132 Initializing specs cache with 3 specs
+23:10:52.132 Adding specs from /Projects/swagger-test-synch/tests/specs/fsFunctions.spec
+23:10:52.132 Adding specs from /Projects/swagger-test-synch/tests/specs/example.spec
+23:10:52.132 Adding specs from /Projects/swagger-test-synch/tests/specs/synch.md
+23:10:52.139 Initializing steps cache with 9 steps
+23:12:05.890 Initializing concepts cache with 0 concepts
+23:12:05.890 Watching directory: /Projects/swagger-test-synch/tests/specs
+23:12:05.891 Found 4 files
+23:12:05.891 Watching directory: /Projects/swagger-test-synch/tests/specs/images
+23:12:05.891 Found 1 files
+23:12:05.892 Initializing specs cache with 3 specs
+23:12:05.892 Adding specs from /Projects/swagger-test-synch/tests/specs/fsFunctions.spec
+23:12:05.892 Adding specs from /Projects/swagger-test-synch/tests/specs/example.spec
+23:12:05.892 Adding specs from /Projects/swagger-test-synch/tests/specs/synch.md
+23:12:05.899 Initializing steps cache with 9 steps
+23:12:26.229 Initializing concepts cache with 0 concepts
+23:12:26.230 Watching directory: /Projects/swagger-test-synch/tests/specs
+23:12:26.230 Found 4 files
+23:12:26.230 Watching directory: /Projects/swagger-test-synch/tests/specs/images
+23:12:26.230 Found 1 files
+23:12:26.232 Initializing specs cache with 3 specs
+23:12:26.232 Adding specs from /Projects/swagger-test-synch/tests/specs/fsFunctions.spec
+23:12:26.232 Adding specs from /Projects/swagger-test-synch/tests/specs/example.spec
+23:12:26.232 Adding specs from /Projects/swagger-test-synch/tests/specs/synch.md
+23:12:26.238 Initializing steps cache with 9 steps
+23:12:40.941 Initializing concepts cache with 0 concepts
+23:12:40.942 Watching directory: /Projects/swagger-test-synch/tests/specs
+23:12:40.942 Found 4 files
+23:12:40.942 Watching directory: /Projects/swagger-test-synch/tests/specs/images
+23:12:40.942 Found 1 files
+23:12:40.944 Initializing specs cache with 3 specs
+23:12:40.944 Adding specs from /Projects/swagger-test-synch/tests/specs/fsFunctions.spec
+23:12:40.944 Adding specs from /Projects/swagger-test-synch/tests/specs/example.spec
+23:12:40.944 Adding specs from /Projects/swagger-test-synch/tests/specs/synch.md
+23:12:40.951 Initializing steps cache with 9 steps
+23:15:24.646 Initializing concepts cache with 0 concepts
+23:15:24.646 Watching directory: /Projects/swagger-test-synch/tests/specs
+23:15:24.646 Found 4 files
+23:15:24.647 Watching directory: /Projects/swagger-test-synch/tests/specs/images
+23:15:24.647 Found 1 files
+23:15:24.649 Initializing specs cache with 3 specs
+23:15:24.649 Adding specs from /Projects/swagger-test-synch/tests/specs/fsFunctions.spec
+23:15:24.649 Adding specs from /Projects/swagger-test-synch/tests/specs/example.spec
+23:15:24.649 Adding specs from /Projects/swagger-test-synch/tests/specs/synch.md
+23:15:24.655 Initializing steps cache with 9 steps
+23:18:32.015 Initializing concepts cache with 0 concepts
+23:18:32.015 Watching directory: /Projects/swagger-test-synch/tests/specs
+23:18:32.016 Found 4 files
+23:18:32.016 Watching directory: /Projects/swagger-test-synch/tests/specs/images
+23:18:32.016 Found 1 files
+23:18:32.017 Initializing specs cache with 3 specs
+23:18:32.018 Adding specs from /Projects/swagger-test-synch/tests/specs/fsFunctions.spec
+23:18:32.018 Adding specs from /Projects/swagger-test-synch/tests/specs/example.spec
+23:18:32.018 Adding specs from /Projects/swagger-test-synch/tests/specs/synch.md
+23:18:32.025 Initializing steps cache with 9 steps
+21:06:58.481 Initializing concepts cache with 0 concepts
+21:06:58.482 Watching directory: /Projects/swagger-test-synch/tests/specs
+21:06:58.483 Found 4 files
+21:06:58.483 Watching directory: /Projects/swagger-test-synch/tests/specs/images
+21:06:58.483 Found 1 files
+21:06:58.485 Initializing specs cache with 3 specs
+21:06:58.486 Adding specs from /Projects/swagger-test-synch/tests/specs/fsFunctions.spec
+21:06:58.486 Adding specs from /Projects/swagger-test-synch/tests/specs/example.spec
+21:06:58.486 Adding specs from /Projects/swagger-test-synch/tests/specs/synch.md
+21:06:58.496 Initializing steps cache with 9 steps
+21:07:13.895 Initializing concepts cache with 0 concepts
+21:07:13.895 Watching directory: /Projects/swagger-test-synch/tests/specs
+21:07:13.895 Found 4 files
+21:07:13.895 Watching directory: /Projects/swagger-test-synch/tests/specs/images
+21:07:13.895 Found 1 files
+21:07:13.897 Initializing specs cache with 3 specs
+21:07:13.897 Adding specs from /Projects/swagger-test-synch/tests/specs/fsFunctions.spec
+21:07:13.897 Adding specs from /Projects/swagger-test-synch/tests/specs/example.spec
+21:07:13.897 Adding specs from /Projects/swagger-test-synch/tests/specs/synch.md
+21:07:13.904 Initializing steps cache with 9 steps
+20:54:10.058 Initializing concepts cache with 0 concepts
+20:54:10.059 Watching directory: /Projects/swagger-test-synch/synch-tests/specs
+20:54:10.060 Found 4 files
+20:54:10.060 Watching directory: /Projects/swagger-test-synch/synch-tests/specs/images
+20:54:10.060 Found 1 files
+20:54:10.062 Initializing specs cache with 3 specs
+20:54:10.062 Adding specs from /Projects/swagger-test-synch/synch-tests/specs/fsFunctions.md
+20:54:10.062 Adding specs from /Projects/swagger-test-synch/synch-tests/specs/example.spec
+20:54:10.062 Adding specs from /Projects/swagger-test-synch/synch-tests/specs/synch.md
+20:54:10.071 Initializing steps cache with 9 steps
+20:55:29.834 Initializing concepts cache with 0 concepts
+20:55:29.834 Watching directory: /Projects/swagger-test-synch/synch-tests/specs
+20:55:29.835 Found 4 files
+20:55:29.835 Watching directory: /Projects/swagger-test-synch/synch-tests/specs/images
+20:55:29.835 Found 1 files
+20:55:29.836 Initializing specs cache with 3 specs
+20:55:29.836 Adding specs from /Projects/swagger-test-synch/synch-tests/specs/fsFunctions.md
+20:55:29.836 Adding specs from /Projects/swagger-test-synch/synch-tests/specs/example.spec
+20:55:29.837 Adding specs from /Projects/swagger-test-synch/synch-tests/specs/synch.md
+20:55:29.844 Initializing steps cache with 9 steps

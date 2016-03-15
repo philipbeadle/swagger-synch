@@ -38,8 +38,14 @@ paths:
         schema:
           $ref: "#/definitions/Pet"
       responses:
-        "405":
-          description: Invalid input
+        200:
+          description: "<p style=\"white-space:nowrap\">Successfully added a new pet\
+            \ to the pet store</p><p style=\"white-space:nowrap\">A new requirement from designer</p>"
+        405:
+          description: "<p style=\"white-space:nowrap\">Invalid Pet object submitted</p>"
+        500:
+          description: "<p style=\"white-space:nowrap\">Submitted a Pet object with\
+            \ no related Category</p>"
       security:
       - petstore_auth:
         - "write_pets"
